@@ -1,6 +1,6 @@
 # CreditRiskClasification
 
-Thank you to Erin for your advice as well as previous examples that gave clarity to some issues.
+Thank you to Erin Wills for your advice as well as previous examples that gave clarity to some issues. Codium and ChatGPT also helping a great deal. This assignment went much smoother compared to others but I still intend on making sure it's nice and spiffy.
 
 
 Instructions
